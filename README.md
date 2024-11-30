@@ -53,7 +53,7 @@ Copy code
 
 python manage.py runserver
 
-4\. ![Image](gas-utility-frontend/public/Screenshot%202024-11-30%20222305.png.png)
+4\. ![Image](gas-utility-frontend/public/Screenshot%202024-11-30%20222305.png)
 
 
 **Frontend Setup**
