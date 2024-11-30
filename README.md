@@ -10,7 +10,8 @@ A comprehensive **full-stack Django application** built with **Django REST Frame
 - **Database Integration**: PostgreSQL for persistent storage with ORM integration in Django.
 - **Admin Interface**: Intuitive interface to manage users, roles, and permissions.
 - **RESTful API**: Exposed for interaction with the frontend and third-party services.
-- **JWT Security**: Ensures secure and token-based user sessions. ![gas-utility-frontend][public][1_lAMsvtB6afHwTQYCNM1xvw.png]
+- **JWT Security**: Ensures secure and token-based user sessions. ![Image](gas-utility-frontend/public/1_lAMsvtB6afHwTQYCNM1xvw.png)
+
 
 **Setup Instructions**
 
@@ -52,7 +53,8 @@ Copy code
 
 python manage.py runserver
 
-4\.![ref1]
+4\.![Image ](gas-utility-frontend/public/Screenshot 2024-11-30 222305.png)
+
 
 **Frontend Setup**
 
