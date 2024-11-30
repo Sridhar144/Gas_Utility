@@ -53,7 +53,7 @@ Copy code
 
 python manage.py runserver
 
-4\.![Image ](gas-utility-frontend/public/Screenshot 2024-11-30 222305.png)
+4\. ![Image](gas-utility-frontend/public/Screenshot%202024-11-30%20222305.png.png)
 
 
 **Frontend Setup**
@@ -74,15 +74,15 @@ Copy code
 
 npm start
 
-2\.![ref1]
+2\.
 
 **Tech Stack**
 
-- **Frontend**: React.js, CSS
+- **Frontend**: React.js ![Image](gas-utility-frontend/public/logo512.png), CSS
 - **Backend**: Django, Django REST Framework (DRF), PostgreSQL, Simple JWT
 - **Database**: PostgreSQL
 - **Authentication**: JWT (JSON Web Tokens)
-- **Admin Panel**: Django Admin![ref1]
+- **Admin Panel**: Django Admin
 
 **Folder Structure Overview**
 
@@ -145,11 +145,11 @@ bash Copy code project/
 - **backend/**: Contains all Django backend files (models, views, serializers, migrations).
 - **frontend/**: Contains the React.js frontend with UI components and pages.
 - **.env**: Stores environment variables for configuration.
-- **requirements.txt**: Contains Python package dependencies for the backend.![ref1]
+- **requirements.txt**: Contains Python package dependencies for the backend.
 
 **Contact**
 
-**Sridhar Sundar** 📧sridharsundar100@gmail.com 📞+91 9372635328![ref1]
+**Sridhar Sundar** 📧sridharsundar100@gmail.com 📞+91 9372635328
 
 **Enjoy coding!** 🚀
 
